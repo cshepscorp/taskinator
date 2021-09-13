@@ -226,6 +226,7 @@ footer {
   }
 
   .task-list-wrapper {
+    /* defines a new width that takes up all available space */
     flex-basis: 100%;
   }
 
